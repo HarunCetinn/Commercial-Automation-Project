@@ -1,4 +1,4 @@
 # Commercial-Automation-Project
 
-![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")
+![alt text](https://imagizer.imageshack.com/img923/3672/kcQ8BV.png)
 
